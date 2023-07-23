@@ -1,0 +1,11 @@
+openpyxl
+pandas
+plotly
+Click
+Flask
+Flask-WTF
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+WTForms
